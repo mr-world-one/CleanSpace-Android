@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">CleanSpace</string>
+
+    <string name="dashboard_title">Головна</string>
+    <string name="scan_title">Сканування</string>
+    <string name="clean_title">Очищення</string>
+    <string name="stats_title">Статистика</string>
+    <string name="settings_title">Налаштування</string>
+
+    <string name="start_scan">Почати сканування</string>
+    <string name="cancel_scan">Скасувати</string>
+
+    <string name="last_cleanup">Останнє очищення</string>
+    <string name="total_freed">Загалом звільнено</string>
+
+    <string name="cache_files">Кеш</string>
+    <string name="duplicates">Дублікати</string>
+    <string name="temporary_files">Тимчасові файли</string>
+    <string name="large_files">Великі файли</string>
+
+    <string name="confirm_deletion">Підтвердіть очищення</string>
+    <string name="delete">Видалити</string>
+    <string name="cancel">Скасувати</string>
+    <string name="freed_space">Звільнено %s</string>
+
+    <string name="scanning_in_progress">Сканування в процесі...</string>
+
+    <string name="permission_required">Потрібен доступ до сховища</string>
+    <string name="permission_explanation">CleanSpace потребує доступу до файлів, щоб знайти сміття</string>
+
+    <string name="select">Вибрати</string>
+    <string name="selected_summary">Вибрано: %1$d • %2$s</string>
+    <string name="deleting_progress">Видалення... %1$d%%</string>
+    <string name="confirm_delete_message">Видалити %1$d файлів на %2$s? Дію не можна скасувати.</string>
+    <string name="add_saf_folder">Додати папку (SAF)</string>
+
+    <string name="files_found">Знайдено файлів: %1$d</string>
+    <string name="current_directory">Поточна папка: %1$s</string>
+    <string name="scan_completed">Сканування завершено</string>
+    <string name="scan_cancelled">Сканування скасовано</string>
+    <string name="scan_error">Помилка сканування: %1$s</string>
+
+    <string name="select_all">Вибрати все</string>
+    <string name="deselect_all">Зняти вибір</string>
+    <string name="select_duplicates_keep_one">Вибрати дублікати (залишити 1)</string>
+    <string name="original">Оригінал</string>
+
+    <string name="category_screenshots">Скріншоти</string>
+    <string name="category_downloads">Завантаження</string>
+    <string name="category_messengers">Месенджери</string>
+    <string name="category_images">Зображення</string>
+    <string name="category_videos">Відео</string>
+    <string name="category_audio">Аудіо</string>
+    <string name="system_files">Системні</string>
+    <string name="unknown_files">Невідомо</string>
+    <string name="dashboard_total_freed">Загалом звільнено: %1$s</string>
+    <string name="dashboard_last_cleanup_with_count">Останнє очищення (очищень: %1$d)</string>
+    <string name="dashboard_category_summary">%1$d файлів • %2$s</string>
+    <string name="deleted_ok">Видалено: %1$s</string>
+
+    <string name="stats_records_count">Записів очищення: %1$d</string>
+    <string name="stats_total_freed">Загалом звільнено: %1$s</string>
+
+    <string name="dashboard_category_photo">Фото</string>
+    <string name="dashboard_category_audio_video">Аудіо/Відео</string>
+    <string name="dashboard_category_phone_cache">Кеш телефону</string>
+</resources>
